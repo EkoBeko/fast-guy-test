@@ -1,16 +1,7 @@
 fileFormatVersion: 2
-guid: 0b0d9d3fdd67bb249b6cba6b83c466dc
+guid: 4f591c2d3c720354bae6684e5454baf5
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -2046772173144171565
-    second: Deneme_0
-  - first:
-      213: -3677330907539339694
-    second: Deneme_1
-  - first:
-      213: -1840422718788478112
-    second: Deneme_2
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -43,13 +34,13 @@ TextureImporter:
     filterMode: -1
     aniso: -1
     mipBias: -100
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -105,70 +96,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Deneme_0
-      rect:
-        serializedVersion: 2
-        x: 823
-        y: 780
-        width: 159
-        height: 172
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a89f2095d4fcc234f8ae07c919873dcf
-      internalID: -2046772173144171565
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Deneme_1
-      rect:
-        serializedVersion: 2
-        x: 825
-        y: 779
-        width: 143
-        height: 173
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b2b812568c93d0478fc2028fe1f92f3
-      internalID: -3677330907539339694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Deneme_2
-      rect:
-        serializedVersion: 2
-        x: 1167
-        y: 1325
-        width: 182
-        height: 250
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f8fdf3020c2b84849b027f17946acf93
-      internalID: -1840422718788478112
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
