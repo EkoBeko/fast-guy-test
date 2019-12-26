@@ -149,6 +149,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5ed74589872e6b44c93f247b66433473, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  delayBeforeLoading: 17
+  sceneNameToLoad: giris2
 --- !u!4 &292278188
 Transform:
   m_ObjectHideFlags: 0
