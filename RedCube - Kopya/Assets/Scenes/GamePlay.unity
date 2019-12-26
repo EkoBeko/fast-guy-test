@@ -425,8 +425,7 @@ MonoBehaviour:
   platforms:
   - {fileID: 2943022812354224821, guid: 452dfa7635b15114988c92a37f61358e, type: 3}
   - {fileID: 7585357794813772895, guid: 23a8cdf31ece338468d9c0761ec4dee4, type: 3}
-  - {fileID: 7771563223186769521, guid: fdd1895e7bf42d64b90238aab10710fa, type: 3}
-  - {fileID: 4604523343986697993, guid: 9ab19700267686845a6a03831dd2df0b, type: 3}
+  - {fileID: 486172583635763178, guid: 69f4d26d1ca9b96498abd2a81c670b9f, type: 3}
   LastspawnPoints: 
   startTimeBtwSpawns: 1.7
   randomSpawnPoint: {fileID: 0}
