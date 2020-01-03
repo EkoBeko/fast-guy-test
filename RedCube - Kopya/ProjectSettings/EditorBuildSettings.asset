@@ -9,9 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/GamePlay.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/giris yazilar/giris.unity
+    path: "Assets/Scenes/G\u0130R\u0130S/giris1/giris.unity"
     guid: 9957712632b2d8d49a2d5036906a3fcf
   - enabled: 1
-    path: Assets/Scenes/giris gorseller/giris2.unity
+    path: "Assets/Scenes/G\u0130R\u0130S/giris2/giris2.unity"
     guid: 3a550548239ccbd4ba5457435a0f0096
+  - enabled: 1
+    path: "Assets/Scenes/G\u0130R\u0130S/giris3/giris3.unity"
+    guid: 9fa46d202b5fed748bab1a1d4549dbbb
+  - enabled: 1
+    path: "Assets/Scenes/G\u0130R\u0130S/giris4/giris4.unity"
+    guid: 6f2f753b211dfc547b908679ef0ebb22
+  - enabled: 1
+    path: "Assets/Scenes/G\u0130R\u0130S/giris5/giris5.unity"
+    guid: 02140af0d18e3e649b39715e5f90b49e
   m_configObjects: {}
