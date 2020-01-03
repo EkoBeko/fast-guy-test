@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/GamePlay.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
     path: "Assets/Scenes/G\u0130R\u0130S/giris1/giris.unity"
     guid: 9957712632b2d8d49a2d5036906a3fcf
   - enabled: 1
@@ -23,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/G\u0130R\u0130S/giris5/giris5.unity"
     guid: 02140af0d18e3e649b39715e5f90b49e
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
