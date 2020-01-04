@@ -36,6 +36,11 @@ public class PlayerBounds : MonoBehaviour
 
      void OnTriggerEnter2D(Collider2D collision)
     {
+        if(collision.tag == "Platform")
+        {
+            score.scoreAmaout++;
+        }
+
         if (collision.tag == "TopSpikes") {
             transform.position = new Vector2(1000f, 1000f);
             SoundManager.instance.DeathSound();

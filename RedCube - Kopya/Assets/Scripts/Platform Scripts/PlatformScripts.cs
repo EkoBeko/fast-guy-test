@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class PlatformScripts : MonoBehaviour
 {
     public float moveSpeed = 2f;
     public float boundY=6f;
+
 
     public bool movingPlatform_Left, movingPlatform_Right, isBreakable, isSpike, isPlatform;
 
@@ -18,13 +20,15 @@ public class PlatformScripts : MonoBehaviour
     }
     void Start()
     {
-        
+       
+
     }
 
     // Update is called once per frame
     void Update()
     {
         Move();
+        
     }
 
     void Move()
@@ -48,8 +52,12 @@ public class PlatformScripts : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D collision)
     {
+        
+
         if (collision.tag == "Player")
         {
+            
+
             if (isSpike)
             {
                 collision.transform.position = new Vector2(1000f, 1000f);
